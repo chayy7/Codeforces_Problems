@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; void solve() {    long long a, b;    cin >> a >> b;     long long diff = abs(a-b);    cout <<(diff % 10 != 0?  diff/10 + 1 : diff/10)<<endl; } int main() {    ios::sync_with_stdio(false);    cin.tie(nullptr);     int t;    cin >> t;    while (t--) {        solve();    }    return 0;}

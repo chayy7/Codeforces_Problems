@@ -1,0 +1,16 @@
+{
+  "platform": "Codeforces",
+  "contestId": 1409,
+  "problemIndex": "A",
+  "title": "Yet Another Two Integers Problem",
+  "rating": 800,
+  "tags": [
+    "greedy",
+    "math"
+  ],
+  "language": "C++23 (GCC 14-64, msys2)",
+  "submissionId": "397525939",
+  "submittedAt": "2026-11-05T22:50:56.000Z",
+  "url": "https://codeforces.com/contest/1409/problem/A",
+  "sha256": "7060b80bd939bb08d39a7310bf861f05e6099d30a376b49e8568c6d1e9c2c57d"
+}
